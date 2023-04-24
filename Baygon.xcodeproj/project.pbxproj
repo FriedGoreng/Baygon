@@ -12,7 +12,6 @@
 		B16BF88A29F6BF63001EBB1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B16BF88929F6BF63001EBB1B /* Assets.xcassets */; };
 		B16BF88D29F6BF63001EBB1B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B16BF88C29F6BF63001EBB1B /* Preview Assets.xcassets */; };
 		B16BF89529F6C24D001EBB1B /* AllGRhythm.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16BF89429F6C24D001EBB1B /* AllGRhythm.swift */; };
-		B16BF89729F6DE8D001EBB1B /* baygon.sh in Resources */ = {isa = PBXBuildFile; fileRef = B16BF89629F6DE8D001EBB1B /* baygon.sh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		B16BF88C29F6BF63001EBB1B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B16BF88E29F6BF63001EBB1B /* Baygon.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Baygon.entitlements; sourceTree = "<group>"; };
 		B16BF89429F6C24D001EBB1B /* AllGRhythm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllGRhythm.swift; sourceTree = "<group>"; };
-		B16BF89629F6DE8D001EBB1B /* baygon.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = baygon.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +54,6 @@
 		B16BF88429F6BF61001EBB1B /* Baygon */ = {
 			isa = PBXGroup;
 			children = (
-				B16BF89629F6DE8D001EBB1B /* baygon.sh */,
 				B16BF88529F6BF61001EBB1B /* BaygonApp.swift */,
 				B16BF88729F6BF61001EBB1B /* ContentView.swift */,
 				B16BF88929F6BF63001EBB1B /* Assets.xcassets */,
@@ -133,7 +130,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B16BF89729F6DE8D001EBB1B /* baygon.sh in Resources */,
 				B16BF88D29F6BF63001EBB1B /* Preview Assets.xcassets in Resources */,
 				B16BF88A29F6BF63001EBB1B /* Assets.xcassets in Resources */,
 			);
